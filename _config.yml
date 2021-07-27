@@ -9,12 +9,5 @@ username: Dominik Roje
 user_description: I'm a person who likes to do things. I'll get around to this later... Maybe.
 user_title: Software Developer
 email: dom.roje@gmail.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-
-# Google-analytics
-google-analytics:
-  id: ""
 
 exclude: ['package.json', 'src' , 'node_modules']
